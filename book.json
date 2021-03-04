@@ -1,0 +1,16 @@
+{
+  "root": "./src/",
+  "title": "Golang 学习资料",
+  "description": "",
+  "author": "张易",
+  "isbn": "",
+  "language": "zh-hans",
+  "plugins": [
+    "ga"
+  ],
+  "pluginsConfig": {
+    "ga": {
+      "token": "-"
+    }
+  }
+}

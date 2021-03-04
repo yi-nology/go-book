@@ -1,0 +1,13 @@
+{
+  "name": "golang-book",
+  "version": "0.0.1",
+  "scripts": {
+    "init": "npm install && gitbook install",
+    "start": "gitbook serve",
+    "build": "gitbook build . docs && touch docs/CNAME && echo 'godoc.murphyyi.com' > docs/CNAME"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-ga": "^1.0.1"
+  }
+}
