@@ -4,7 +4,7 @@
   "scripts": {
     "init": "npm install && gitbook install",
     "start": "gitbook serve",
-    "build": "gitbook build . docs && touch docs/CNAME && echo 'godoc.murphyyi.com' > docs/CNAME"
+    "build": "gitbook build . docs && touch docs/CNAME && echo 'godoc.murphyyi.com' > docs/CNAME && echo 'e95d2f4a675fe6f2eba955f45c3370b24470643197a084ba' > docs/jd_root.txt"
   },
   "dependencies": {
     "gitbook-cli": "^2.3.2",
