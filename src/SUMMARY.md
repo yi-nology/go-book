@@ -173,7 +173,7 @@
         - 16.6 [使用指针指向接口类型](the-way-to-go_ZH_CN/eBook/16.6.md)
         - 16.7 [使用值类型时误用指针](the-way-to-go_ZH_CN/eBook/16.7.md)
         - 16.8 [误用协程和通道](the-way-to-go_ZH_CN/eBook/16.8.md)
-        - 16.9 [闭包和协程的使用]the-way-to-go_ZH_CN/eBook/(16.9.md)
+        - 16.9 [闭包和协程的使用](the-way-to-go_ZH_CN/eBook/16.9.md)
         - 16.10 [糟糕的错误处理](the-way-to-go_ZH_CN/eBook/16.10.md)
     - 第17章：[模式](the-way-to-go_ZH_CN/eBook/17.0.md)
         - 17.1 [逗号 ok 模式](the-way-to-go_ZH_CN/eBook/17.1.md)
