@@ -1,4 +1,4 @@
-# [Golang 中文学习资料](http://go.wuhaolin.cn/)
+# [Golang 中文学习资料](http://godoc.murphyyi.com/)
 本书汇总了网上优质的开源 Golang 电子书，方便大家学习，涵盖以下三本书：
 
 - [Go入门指南](the-way-to-go/README.md)
